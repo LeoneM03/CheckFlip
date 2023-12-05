@@ -1,4 +1,8 @@
 # CheckFlip
+
+Ronald Leonel Mendoza Guzman.
+
+
 Task manager app para prueba front end.
 
 
